@@ -8,3 +8,4 @@ Debug/
 **/Debug/
 *.mk
 **/*.mk
+*codelite/
